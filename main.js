@@ -27,6 +27,7 @@ function outerFunc() {
 
 }
 outerFunc();
+
 ///Explanation  I create the function outerFun. Iside outerFunc i name a const outerVar with "OUTER" string as it's value
 //and another function named "innerFunc" as another value of the function which has a function of 
 //logging the outerVar's value to console. Right outside that innerFunc, i can call it to execute the log,
